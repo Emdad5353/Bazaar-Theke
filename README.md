@@ -5,7 +5,7 @@ Bazaar Theke allows customers to browse and purchase items from an online store
 
 
 <br><p><b>App Video Demonstration:</b></p>
-https://drive.google.com/file/d/14O_nDHlfvdbenEdaYNwNqGDLEXGjtrYA/view?usp=share_link
+![Watch App Demo](https://drive.google.com/file/d/14O_nDHlfvdbenEdaYNwNqGDLEXGjtrYA/view?usp=share_link)
 
 <br><p><b>App Low Fidelity Wireframe:</b></p>
 <div class="column">
